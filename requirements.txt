@@ -6,4 +6,3 @@ numpy
 keras
 opencv-python
 pybase64
-os
