@@ -3,6 +3,6 @@ scikit-image
 scikit-learn            
 numpy
 keras
-python3-opencv
+python-opencv
 base64
 os
