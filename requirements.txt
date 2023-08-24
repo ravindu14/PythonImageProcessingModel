@@ -5,5 +5,5 @@ scikit-learn
 numpy
 keras
 opencv-python
-base64
+pybase64
 os
