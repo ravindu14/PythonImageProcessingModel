@@ -7,4 +7,4 @@ keras
 opencv-python
 pybase64
 tensorflow
-keras.layers.advanced_activations
+keras.layers
