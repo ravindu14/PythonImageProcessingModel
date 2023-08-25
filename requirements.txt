@@ -6,4 +6,4 @@ numpy
 keras
 opencv-python
 pybase64
-tensorflow==1.8.9
+tensorflow==2.1.2
