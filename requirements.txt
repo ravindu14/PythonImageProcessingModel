@@ -8,3 +8,5 @@ opencv-python
 pybase64
 tensorflow
 keras.layers
+nvidia-cudnn-cu11==8.6.0.163
+tensorflow==2.13.*
