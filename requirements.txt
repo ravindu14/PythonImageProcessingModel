@@ -4,6 +4,6 @@ scikit-image
 scikit-learn            
 numpy
 keras
-opencv-python
+opencv-python==4.2.0.34
 pybase64
 tensorflow==2.8.2

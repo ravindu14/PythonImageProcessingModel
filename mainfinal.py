@@ -11,8 +11,8 @@ import numpy as np
 from keras import backend as K
 import keras.models as models
 import keras.optimizers as optimizers
-from keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D, Convolution2D, ZeroPadding2D, AveragePooling2D
-from keras.layers.advanced_activations import PReLU
+from keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D
+#from keras.layers.advanced_activations import PReLU
 import base64
 import os
 import cv2
